@@ -4,6 +4,11 @@
 
 Security isn't optional at Better.sg. We handle user data, and that's a responsibility we take seriously. These rules are non-negotiable.
 
+> **Security matters, but we're here to help** 🔒
+>
+> Yes, security is important. But don't let that intimidate you! Ask questions, flag concerns, and learn together. We've all made security mistakes.
+
+
 ## Why Security Matters
 
 **MUST** follow these security practices because:
