@@ -2,6 +2,9 @@
 
 **Versioning**: v1.0 | **Status**: Active | **Audience**: All Engineers
 
+> **Remember**: Code reviews are for learning and collaboration, not judgment. Everyone makes mistakes, and that's okay!
+
+
 Code review is where we learn from each other, catch bugs early, and maintain code quality. It's a collaboration, not a judgment.
 
 ## Why Code Review Matters
