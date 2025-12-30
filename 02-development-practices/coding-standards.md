@@ -2,11 +2,14 @@
 
 **Versioning**: v1.0 | **Status**: Active | **Audience**: All Engineers
 
+> **A friendly guide** — These are best practices to help us write clearer, more maintainable code. If you're new to any of these concepts, don't worry! We're here to help.
+
+
 We believe great code is readable, maintainable, and kind to the next person who has to work with it (often that's future you!).
 
 ## Why This Matters
 
-**MUST** follow these standards:
+ follow these standards:
 - Ensures consistency across the codebase
 - Reduces cognitive load for code reviewers
 - Prevents entire classes of bugs (formatting, naming confusion)
@@ -43,7 +46,7 @@ has_sub = all([u.sub.active, u.sub.exp > n]) if u else False
 
 ### DRY (Don't Repeat Yourself)
 
-**MUST**: Don't copy-paste code. Extract into reusable functions or utilities.
+: Don't copy-paste code. Extract into reusable functions or utilities.
 
 **SHOULD**: Abstract repeated patterns into helpers, even if it's just 2–3 occurrences.
 
@@ -145,7 +148,7 @@ from utils.helpers import parse_date
 
 ### Size
 
-**MUST**: Keep functions small (ideal: < 20 lines)
+: Keep functions small (ideal: < 20 lines)
 
 **WHY?** Small functions are easier to test, understand, and modify.
 
@@ -207,7 +210,7 @@ failed_login_attempts += 1
 
 ### Docstrings
 
-**MUST** for public functions and classes:
+ for public functions and classes:
 
 ```python
 def calculate_discount(price: float, user_tier: str) -> float:
@@ -231,7 +234,7 @@ def calculate_discount(price: float, user_tier: str) -> float:
 
 ## 6. Error Handling
 
-**MUST**: Never silently fail.
+: Never silently fail.
 
 ```python
 # AVOID: Silent failure
@@ -255,7 +258,7 @@ except Exception as e:
 
 ## 7. Testing Expectations
 
-**MUST**: Test at least the happy path and one error case.
+: Test at least the happy path and one error case.
 
 ```python
 class TestUserService:
