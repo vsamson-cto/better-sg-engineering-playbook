@@ -2,6 +2,9 @@
 
 **Versioning**: v1.0 | **Status**: Active | **Audience**: All Engineers
 
+> **Start small**: Don't worry about hitting 100% coverage immediately. Even simple tests that cover the happy path are better than none. Tests are a skill you build over time.
+
+
 Testing isn't a chore—it's insurance against shipping broken code. Tests give us confidence to refactor, deploy, and sleep at night.
 
 ## Why Testing Matters
