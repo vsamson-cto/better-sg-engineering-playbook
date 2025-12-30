@@ -4,6 +4,18 @@
 
 Welcome to the Better.sg Engineering Playbook — our single source of truth for how we build, ship, and maintain technology at Better.sg.
 
+> **🎯 A Note to Our Volunteers**
+>
+> This playbook is a **collection of best practices and guidelines**, not a rigid rulebook. We understand that volunteers contribute on their own time and with varying levels of experience. These practices exist to help us build better technology together, but we recognize that **perfect is the enemy of done**.
+>
+> - **Security and data protection** matters for our users, so please take those sections seriously
+> - **Code quality and testing** help everyone maintain and extend the codebase
+> - Everything else is **aspirational** — if you can follow it, great! If not, we'd rather have your contribution than perfect code
+>
+> Questions? No idea what something means? **Ask!** We're here to help, not judge.
+>
+> — The Better.sg Tech Team
+
 ## 🎯 Purpose
 
 This playbook exists to:
