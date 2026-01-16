@@ -59,9 +59,6 @@ better-sg-engineering-playbook/
 ├── 04-version-control/             # Git workflow & branching
 ├── 05-infrastructure-deployment/   # Ops & deployment
 ├── 06-project-management/          # How we organize work
-├── 07-open-source/                 # OSS guidelines
-├── 08-offboarding/                 # Offboarding process
-├── templates/                      # PR & issue templates
 ├── CONTRIBUTING.md                 # How to improve this playbook
 └── README.md                       # This file
 ```
