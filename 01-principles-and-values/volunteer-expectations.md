@@ -398,6 +398,5 @@ Every contribution counts:
 - Your project lead
 - Community managers in Slack
 - #general channel for broad questions
-- hello@better.sg for official inquiries
 
 **We're here to support you on your Better.sg journey. Welcome to the community! 🇸🇬💚**
