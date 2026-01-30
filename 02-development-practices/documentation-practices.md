@@ -8,18 +8,18 @@ Effective documentation is critical for maintaining code quality, enabling team 
 
 ### 1. Documentation Must Be:
 
-- **Correct**: Accurate and free from errors. Wrong documentation is worse than no documentation.[web:8]
+- **Correct**: Accurate and free from errors. Wrong documentation is worse than no documentation.
 - **Current**: Reflects the latest state of code, infrastructure, and system interfaces
 - **Understandable**: Written for the target audience with appropriate technical depth
-- **Relevant**: Focused on what users need to accomplish, not just what the system can do[web:6]
-- **Maintainable**: Easy to update as the codebase evolves[web:8]
+- **Relevant**: Focused on what users need to accomplish, not just what the system can do
+- **Maintainable**: Easy to update as the codebase evolves
 - **Discoverable**: Easy to find when needed
 
 ### 2. The Three Cs of Technical Writing
 
 - **Clarity**: Use clear headings, explain technical terms, and avoid ambiguity
 - **Conciseness**: Keep content focused and eliminate redundancy
-- **Consistency**: Follow style guides and maintain uniform formatting[web:11]
+- **Consistency**: Follow style guides and maintain uniform formatting
 
 ## Documentation Types
 
@@ -28,7 +28,7 @@ Effective documentation is critical for maintaining code quality, enabling team 
 Describes the system architecture and internal components:
 
 - **Architecture Documentation**: High-level system design, component relationships, integration patterns
-- **Technical Design Documents (TDD)**: Detailed specifications including data flows, algorithms, API endpoints[web:10]
+- **Technical Design Documents (TDD)**: Detailed specifications including data flows, algorithms, API endpoints
 - **API Documentation**: Interface contracts, request/response formats, authentication requirements
 - **Database Schema**: Entity relationships, data models, migration strategies
 
@@ -49,7 +49,7 @@ Describes the system architecture and internal components:
 ### Process Documentation
 
 - **Development Workflow**: Branching strategy, code review process, deployment procedures
-- **Testing Strategy**: Unit, integration, and acceptance test approaches[web:13]
+- **Testing Strategy**: Unit, integration, and acceptance test approaches
 - **Incident Response**: Runbooks, escalation procedures, post-mortem templates
 - **Onboarding Guides**: Team-specific practices, tools, access procedures
 
@@ -57,7 +57,7 @@ Describes the system architecture and internal components:
 
 ### Documentation as Code (Docs-as-Code)
 
-**Why**: Keeps documentation synchronized with code changes and enables automated quality checks.[web:6]
+**Why**: Keeps documentation synchronized with code changes and enables automated quality checks.
 
 **Implementation**:
 - Store documentation in version control alongside code
@@ -70,7 +70,7 @@ Describes the system architecture and internal components:
 
 **Developer-Focused Documentation**:
 - Include working code examples that users can copy and run
-- Provide real-world use cases and tutorials[web:5]
+- Provide real-world use cases and tutorials
 - Document edge cases and limitations
 - Show both simple and advanced usage patterns
 
@@ -83,7 +83,7 @@ Describes the system architecture and internal components:
 ### Structure and Organization
 
 **Information Architecture**:
-- Organize content top-down: overview first, then details[web:8]
+- Organize content top-down: overview first, then details
 - Use consistent navigation patterns across all documentation
 - Implement clear heading hierarchies (H1 → H2 → H3)
 - Provide search functionality for large documentation sets
@@ -219,7 +219,7 @@ Use this checklist for every documentation update:
 - [ ] Target audience identified
 - [ ] Prerequisites listed
 - [ ] Step-by-step instructions where applicable
-- [ ] Working code examples (tested and copy-paste ready)[web:5]
+- [ ] Working code examples (tested and copy-paste ready)
 - [ ] Real-world use cases
 
 ### Enhanced Quality
@@ -282,7 +282,7 @@ Use this checklist for every documentation update:
 - **Copy-paste programming guides**: Tailor examples to your actual use cases
 - **Ignoring the maintenance burden**: Only document what you can keep current
 - **Writing for yourself**: Consider readers with different backgrounds
-- **Documenting too early**: Wait until designs stabilize[web:8]
+- **Documenting too early**: Wait until designs stabilize
 
 ### Red Flags
 - Documentation in formats that can't be version controlled (Word docs, wikis with no history)
