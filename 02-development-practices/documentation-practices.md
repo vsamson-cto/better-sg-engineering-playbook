@@ -332,7 +332,3 @@ This documentation guide is a living document. If you have suggestions for impro
 4. Share examples of great documentation you've encountered
 
 ---
-
-**Last Updated**: January 2026  
-**Maintainer**: CTO Office  
-**Version**: 1.0
