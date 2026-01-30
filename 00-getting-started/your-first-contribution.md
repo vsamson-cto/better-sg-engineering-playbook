@@ -447,7 +447,7 @@ After your first PR:
 ## Additional Resources
 
 - [GitHub Flow Guide](https://guides.github.com/introduction/flow/)
-- [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+- [Git Basics](https://git-scm.com/about)
 - [Writing Good Commit Messages](https://chris.beams.io/posts/git-commit/)
 - [Better.sg Engineering Playbook](../README.md)
 
