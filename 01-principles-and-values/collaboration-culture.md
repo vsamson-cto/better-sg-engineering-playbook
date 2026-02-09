@@ -61,8 +61,8 @@ Better.sg is a **volunteer-run charity** with over 2,000+ members. We're built o
 **Primary channels:**
 - `#general` - Community announcements and discussions
 - `#project-[name]` - Project-specific channels
-- `#help-wanted` - Looking for volunteers
-- `#tech-discussions` - Technical questions and learning
+- `#general` - Looking for volunteers
+- `#engineering` - Technical questions and learning
 - `#random` - Off-topic chat and community bonding
 
 **Best practices:**
