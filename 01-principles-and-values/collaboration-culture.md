@@ -217,7 +217,7 @@ Better.sg is a **volunteer-run charity** with over 2,000+ members. We're built o
 
 1. **Define the problem** - What social issue are we addressing?
 2. **Validate with users** - Talk to actual non-profits/communities
-3. **Assemble the team** - Post in #help-wanted
+3. **Assemble the team** - Post in #general
 4. **Set up infrastructure** - Repo, Slack channel, project board
 5. **Create project README** - Goals, tech stack, how to contribute
 6. **Break down work** - Create GitHub issues
